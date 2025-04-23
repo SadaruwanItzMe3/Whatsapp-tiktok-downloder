@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-tiktok-downloader",
+  "version": "1.0.0",
+  "description": "A WhatsApp Bot to download TikTok videos using Baileys.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.0"
+  }
+}
